@@ -1,0 +1,12 @@
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\bin\Debug\StringLen.exe.config
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\bin\Debug\StringLen.exe
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\bin\Debug\StringLen.pdb
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\bin\Debug\StringLen.xml
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\obj\Debug\StringLen.vbprojResolveAssemblyReference.cache
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\obj\Debug\StringLen.Form1.resources
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\obj\Debug\StringLen.Resources.resources
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\obj\Debug\StringLen.vbproj.GenerateResource.Cache
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\obj\Debug\StringLen.vbproj.CoreCompileInputs.cache
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\obj\Debug\StringLen.exe
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\obj\Debug\StringLen.xml
+C:\Users\santa\Documents\VBA Workspace\StringLen\StringLen\obj\Debug\StringLen.pdb
